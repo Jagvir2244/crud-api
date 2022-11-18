@@ -1,0 +1,7 @@
+<h3>Create a Product3>
+<%= form_with model: @product do |form| %>
+  <%= form.text_field :name, placeholder: "name" %>
+  <%= form.text_field :color, placeholder: "color" %>
+  <%= form.text_field :brand, placeholder: "brand" %>
+  <%= form.submit %>
+<% end %>

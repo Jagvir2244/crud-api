@@ -1,0 +1,16 @@
+current directory: /home/satish-sehgal/crud/vendor/bundle/ruby/3.0.0/gems/debug-1.6.3/ext/debug
+/home/satish-sehgal/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/satish-sehgal/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 -r ./siteconf20221030-5569-gn3vcn.rb extconf.rb
+creating Makefile
+
+current directory: /home/satish-sehgal/crud/vendor/bundle/ruby/3.0.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/satish-sehgal/crud/vendor/bundle/ruby/3.0.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/satish-sehgal/crud/vendor/bundle/ruby/3.0.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20221030-5569-vsb5n1/debug
